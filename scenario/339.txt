@@ -1,0 +1,1 @@
+My idea is to create small environments of socialization connected with main roads communicating with other buildings, facilitating mobility. Also, thinking about the mobility of cars and pedestrians, I am creating pathways set of car and pedestrian.

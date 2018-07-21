@@ -1,0 +1,9 @@
+Starting position:
+1. Take into consideration that business (blue) ans commercial (yellow) buildings was already positioned, as it is written in description to the exercise.
+2. Neighboring area (gray buildings) show how dense designing cluster should be.
+
+Approach:
+1. Area along one of the main transport artery in Singapore is the best place to allocate business ans commercial buildings. Apart from the good accessibility they play the role prevention of noise expansion.
+2. Density in Singapore is extremely high due to the land price. Taking that into account I used only high rise group of buildings.
+3. I devided whole area into several districts by greenery with access to the waterfront.
+4. In comparison to social, luxury type of housing has lower density and situated on the best part of plot with the best view to the sea.

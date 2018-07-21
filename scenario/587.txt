@@ -1,0 +1,1 @@
+Solution with a central plaza and geometrical grid. Upper right corner is not filled due to a lack of "stones" - One can imagine the grid to continue into this corner as well

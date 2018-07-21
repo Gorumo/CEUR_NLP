@@ -1,0 +1,1 @@
+This is designed on the basis of proper circulation, solar orientation, enough space around buildings, proximity to neighboring buildings and means of ventilation. The orientation of buildings are set considering orientation of buildings on other sides of road. 

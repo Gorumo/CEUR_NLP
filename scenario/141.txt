@@ -1,0 +1,6 @@
+- Ambulance / emergency service can reach door to door through shortest path.
+- Green / Open space / park / playground
+- Support Central monitoring / controlling / Networking / Broadcasting
+- Optimistic Networking / Pathways
+- Visible
+- High Mobility

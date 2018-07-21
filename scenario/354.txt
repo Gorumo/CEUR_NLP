@@ -1,0 +1,1 @@
+The organization is given from a grid that follows the route of the city, where the highest volumes are located away from the street and the lowest, close to the street. Also, the triangular morphology of the space, generates a central square that articulates the entire organization.

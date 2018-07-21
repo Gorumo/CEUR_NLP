@@ -1,0 +1,1 @@
+Neatly putting them in rows obviously wouldn't work so i did my best to keep some logic in it while placing all of the buildings and tried maximizing space in between them.

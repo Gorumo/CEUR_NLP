@@ -1,0 +1,9 @@
+My design took in consideration the following conditions/restrictions:
+- Mendi CI street on Google map
+- buildings should be grouped because the biggest problems of the area are:
+ water accessibility and security.
+- each group should have access to the main streets for cars providing different services or bike path access.
+
+Of course that these restrictions have decreased the level of visibility and/or the density to some extent.
+One should not analyze the design only by the criteria, but to analyze it taking into consideration the restrictions too.
+

@@ -1,0 +1,5 @@
+# Idea of Arch Shape Planning
+#Wide Arch type connectivity as well as in radial direction.
+# Arch type design provides easy visual from different direction.
+#Symmetric design about angle bisector.
+#In inner circle, high-rise building is faced towards sunlight, subsequently providing shade to attached relative-loe buildings.   

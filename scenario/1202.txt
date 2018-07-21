@@ -1,0 +1,2 @@
+Friendly neighborhood. 
+The plot tries to create some clusters that are not only defined separately but also are in integration with each other.  The orientation of the blocks respect the direction of the streets and meanwhile create major and minor axis to mold a homogeneous morphology.

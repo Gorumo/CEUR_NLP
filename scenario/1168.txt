@@ -1,0 +1,1 @@
+I would like to divide all the shacks into three groups to create  some kind of lanes inside  the block. These 2 paths are connected to the  existing lane. All the shacks got entry to the lanes or roads.  Some shacks have their own yards, some don't.

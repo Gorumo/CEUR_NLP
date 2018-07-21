@@ -1,0 +1,1 @@
+I tried to cluster several buildings with the same geometry into "loose" building blocks with air channels in N-S direction, placing higher buildings towards the main streets, creating passages every 3-4 buildings into the overall area and providing various open spaces along the center.

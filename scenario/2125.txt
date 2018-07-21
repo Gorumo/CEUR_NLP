@@ -1,0 +1,11 @@
+The district is designed with a clustering approach. The following points are key to the strategy of the design:
+1. Prioritize view to the sea front
+2. Avoid Urban Heat Island
+3.Maximum wind potential utilisation
+4. Avoid street noise in residential area
+5. Highest accessibility - Open community clusters
+6. Space consideration for future planning
+7. Balanced mix of small,high rise and commercial buildings in clusters
+8. Space for recreational activities
+9.Energy distribution if renewable sources are involved
+10. Not too close to the water front - disaster management

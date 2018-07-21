@@ -1,0 +1,1 @@
+with this design all buildings have direct access to a street, also we can develop a common area in the center of the block. In google maps we can see that there is a street that cross this block, we can use that street as an entrance to a this common area that could be a park.

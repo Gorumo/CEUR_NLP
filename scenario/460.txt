@@ -1,0 +1,14 @@
+The neighbourhood consists of three separate blocks of buildings. 
+
+The first block consists of high rise and medium height buildings that they surround a big area that could be used as a park to ensure safe playing for the children and enhance social life. The higher buildings are facing north so as to avoid shading to the medium height buildings but also the other blocks of buildings.
+
+On the north east we have the second block consisting of small houses with an area that can be used again as a social urban zone. Moreover, the buildings are placed in a structured way so as to avoid the heat island effect. 
+
+The third zone consists of bigger but same height buildings that form a “U-shape” trying to make maximum use of the sea breeze in order to cool down the whole area quicker. The 3 buildings on the south are placed such that they do not block the sea breeze.
+ 
+In total the whole layout tries to:
+- Enable sea breeze inside the dense area
+- Increase solar gains
+- Noise insulation by using high rise buildings close to the intersections
+- Enhance urban social life by providing public areas
+

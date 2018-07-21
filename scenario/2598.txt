@@ -1,0 +1,1 @@
+The main idea is the creation of a linear- facade ( extended towards the main roads ) + the isolation of the center. The pattern serves the continuity of the existant, the creation of a neighborhood - and the centrality of free - space.

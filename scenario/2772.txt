@@ -1,0 +1,1 @@
+This model is oriented to shape urban patterns, generates connections between its context and the cores to produce pedestrian activities  

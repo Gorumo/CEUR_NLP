@@ -1,0 +1,2 @@
+My design would be to build a road within the area and then formalise the dwellings by providing access through allowing each household direct access to a road. Note: I didn't know how to insert a road (or other new objects) within the model.
+This design allows for more space between dwellings. 

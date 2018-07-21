@@ -1,0 +1,5 @@
+I have designed the neighbourhood in a cluster of houses (duplex and sometimes tenement-style) instead of arranging each house separately like in a subdivision.
+
+Due to the triangular shape of the lot and the irregular sizes of the buildings, I have decided to simply follow a layout where house clusters are surrounded by a wide enough alleyway in a grid-like pattern. This way, families living in the inner portions won't feel closed in by those located along the street. This grid-like pattern allows for both couriers and emergency personnel to easily access the inner portions.
+
+Due to space restrictions, I have decided not to allocate a space for parking. Instead, the available free space (notice the large empty lot on the upper-left portion of the lot) is allocated as a communal space.

@@ -1,0 +1,1 @@
+Simple grid layout with access to open spaces.  Buildings are setback from the street in a similar fashion to the existing conditions. 

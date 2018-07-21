@@ -1,0 +1,1 @@
+The idea is generate a small street, with green and children spaces, between the houses, arranging the houses by maximum of 8 blocks of buildings. 

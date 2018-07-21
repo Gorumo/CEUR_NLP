@@ -1,0 +1,7 @@
+3d geometry is oriented to the sides of the world
+In order to cover the neighboring houses from the sun (you need a verification calculation in Autodesk Ecotect and Grasshopper to calculate the optimal location)
+The temperature differences on the sunny and shaded facades create a natural draft for ventilation.
+The arrangement of geometry forms 2 pedestrian passes through a residential area
+Also, local public areas have been formed
+And common courtyards
+Serge Andreev
